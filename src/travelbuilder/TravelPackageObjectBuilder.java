@@ -1,4 +1,7 @@
 package travelbuilder;
+/**
+ * Builds a TravelPackage object representation.
+ */
 
 public class TravelPackageObjectBuilder implements TravelPackageBuilder {
 
