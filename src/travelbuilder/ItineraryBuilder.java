@@ -1,4 +1,7 @@
 package travelbuilder;
+/**
+ * Builds a text-based travel itinerary representation.
+ */
 
 public class ItineraryBuilder implements TravelPackageBuilder {
 
