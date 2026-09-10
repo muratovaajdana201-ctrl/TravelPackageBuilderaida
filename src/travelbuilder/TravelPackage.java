@@ -1,5 +1,7 @@
 package travelbuilder;
-
+/**
+ * Represents an immutable travel package.
+ */
 public final class TravelPackage {
     private final String destination;
     private final String hotel;
