@@ -1,4 +1,7 @@
 package travelbuilder;
+/**
+ * Defines the steps for building a travel package.
+ */
 
 public interface TravelPackageBuilder {
 
