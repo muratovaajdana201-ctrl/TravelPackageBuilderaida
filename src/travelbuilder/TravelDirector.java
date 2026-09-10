@@ -1,4 +1,7 @@
 package travelbuilder;
+/**
+ * Provides predefined travel package configurations.
+ */
 
 public class TravelDirector {
 
